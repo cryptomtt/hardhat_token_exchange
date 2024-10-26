@@ -1,0 +1,8 @@
+{
+  "token1": "0x47955a9a34517Da33888Fc1dd7bF672802f2Be06",
+  "token2": "0xDAC084Ec6c37d70712F2b1167faD42Bd7bae5a7e",
+  "contractXYZProxy": "0x1a5FaF232A3B0211Da1D2FCB01c4C3b2cD7A6AD7",
+  "contractXYZImplementation": "0xe8EE65bca63D2E337688f2E14d22ddf633f5C178",
+  "network": "sepolia",
+  "deploymentTime": "2024-10-26T06:25:46.011Z"
+}
