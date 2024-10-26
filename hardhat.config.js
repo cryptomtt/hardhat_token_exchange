@@ -1,5 +1,6 @@
 require("@nomicfoundation/hardhat-ethers");
 require("@openzeppelin/hardhat-upgrades");
+require("@nomicfoundation/hardhat-chai-matchers");
 require("@nomicfoundation/hardhat-verify");
 require("dotenv").config();
 
