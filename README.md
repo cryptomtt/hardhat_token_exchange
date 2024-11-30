@@ -1,4 +1,4 @@
-# Token exchange
+# Hardhat Token exchange
 
 ### Node version: 18
 
